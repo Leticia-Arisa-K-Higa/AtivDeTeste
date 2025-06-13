@@ -1,0 +1,13 @@
+package tst;
+
+import static org.junit.Assert.*;
+
+public class CadastroRendimentosTest{
+  @Before
+  public void setup() {
+    irpf = new IRPF();
+  }
+  public void testCadastraSalario() {
+    fail("Not yet implemented");
+  }
+}
